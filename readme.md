@@ -16,47 +16,6 @@
   <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Level&message=Intermediate&color=E94D5F&labelColor=202024" alt="Level"></a>
 </p>
 
-<!-- Author Table -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Felipe Aguiar</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ in commercial systems with .NET C# and NODE.JS.
-      <br/>
-     🌟 Fullstack Developer - Education Coordinator at DIO
-      <br/>
-    👨‍💻 Focus on SPA front-ends with React, Angular, and Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
-
-<br/>
-<br/>
 
 ## 💻 Project Description
 
