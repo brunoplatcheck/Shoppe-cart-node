@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Hotwheels Ferrari",
+    "brand": "Mattel",
+    "price": 20.99
+  },
+  {
+    "id": 2,
+    "name": "Hotwheels Lamborghini",
+    "brand": "Mattel",
+    "price": 39.99
+  },
+  {
+    "id": 3,
+    "name": "Action Figure Goku",
+    "brand": "Bandai",
+    "price": 150.50
+  },
+  {
+    "id": 4,
+    "name": "Lego Star Wars Millennium Falcon",
+    "brand": "Lego",
+    "price": 899.90
+  },
+  {
+    "id": 5,
+    "name": "Smartphone Galaxy S25",
+    "brand": "Samsung",
+    "price": 4999.00
+  },
+  {
+    "id": 6,
+    "name": "iPhone 16 Pro",
+    "brand": "Apple",
+    "price": 9599.00
+  },
+  {
+    "id": 7,
+    "name": "Notebook Gamer Nitro 5",
+    "brand": "Acer",
+    "price": 5600.00
+  },
+  {
+    "id": 8,
+    "name": "Headset Gamer HyperX Cloud II",
+    "brand": "HyperX",
+    "price": 450.00
+  },
+  {
+    "id": 9,
+    "name": "Mouse Gamer Logitech G502",
+    "brand": "Logitech",
+    "price": 280.00
+  },
+  {
+    "id": 10,
+    "name": "Teclado Mecânico Redragon Kumara",
+    "brand": "Redragon",
+    "price": 210.00
+  },
+  {
+    "id": 11,
+    "name": "Monitor Gamer 27' 144Hz",
+    "brand": "AOC",
+    "price": 1300.00
+  },
+  {
+    "id": 12,
+    "name": "Cadeira Gamer DT3",
+    "brand": "DT3sports",
+    "price": 1100.00
+  },
+  {
+    "id": 13,
+    "name": "Livro: O Senhor dos Anéis",
+    "brand": "HarperCollins",
+    "price": 120.00
+  },
+  {
+    "id": 14,
+    "name": "Livro: Duna",
+    "brand": "Aleph",
+    "price": 69.90
+  },
+  {
+    "id": 15,
+    "name": "Livro: O Guia do Mochileiro das Galáxias",
+    "brand": "Arqueiro",
+    "price": 45.00
+  },
+  {
+    "id": 16,
+    "name": "Kindle Paperwhite",
+    "brand": "Amazon",
+    "price": 599.00
+  },
+  {
+    "id": 17,
+    "name": "Smart TV 50' 4K",
+    "brand": "LG",
+    "price": 2500.00
+  },
+  {
+    "id": 18,
+    "name": "Console PlayStation 5",
+    "brand": "Sony",
+    "price": 4500.00
+  },
+  {
+    "id": 19,
+    "name": "Controle DualSense PS5",
+    "brand": "Sony",
+    "price": 400.00
+  },
+  {
+    "id": 20,
+    "name": "Jogo: Elden Ring (PS5)",
+    "brand": "FromSoftware",
+    "price": 250.00
+  },
+  {
+    "id": 21,
+    "name": "Console Xbox Series X",
+    "brand": "Microsoft",
+    "price": 4300.00
+  },
+  {
+    "id": 22,
+    "name": "Console Nintendo Switch OLED",
+    "brand": "Nintendo",
+    "price": 2300.00
+  },
+  {
+    "id": 23,
+    "name": "Jogo: The Legend of Zelda (Switch)",
+    "brand": "Nintendo",
+    "price": 300.00
+  },
+  {
+    "id": 24,
+    "name": "Air Fryer 5L",
+    "brand": "Mondial",
+    "price": 350.00
+  },
+  {
+    "id": 25,
+    "name": "Cafeteira Nespresso",
+    "brand": "Nespresso",
+    "price": 480.00
+  },
+  {
+    "id": 26,
+    "name": "Aspirador de Pó Robô",
+    "brand": "iRobot",
+    "price": 1800.00
+  },
+  {
+    "id": 27,
+    "name": "Tênis de Corrida Ultraboost",
+    "brand": "Adidas",
+    "price": 799.90
+  },
+  {
+    "id": 28,
+    "name": "Tênis Air Force 1",
+    "brand": "Nike",
+    "price": 749.90
+  },
+  {
+    "id": 29,
+    "name": "Camiseta Básica Branca",
+    "brand": "Hering",
+    "price": 59.90
+  },
+  {
+    "id": 30,
+    "name": "Calça Jeans Slim",
+    "brand": "Levi's",
+    "price": 299.00
+  },
+  {
+    "id": 31,
+    "name": "Moletom com Capuz",
+    "brand": "GAP",
+    "price": 250.00
+  },
+  {
+    "id": 32,
+    "name": "Relógio Smartwatch Amazfit",
+    "brand": "Amazfit",
+    "price": 650.00
+  },
+  {
+    "id": 33,
+    "name": "Fone de Ouvido Bluetooth TWS",
+    "brand": "Xiaomi",
+    "price": 180.00
+  },
+  {
+    "id": 34,
+    "name": "Caixa de Som Bluetooth JBL",
+    "brand": "JBL",
+    "price": 220.00
+  },
+  {
+    "id": 35,
+    "name": "Power Bank 20000mAh",
+    "brand": "Anker",
+    "price": 210.00
+  },
+  {
+    "id": 36,
+    "name": "Funko Pop Harry Potter",
+    "brand": "Funko",
+    "price": 129.90
+  },
+  {
+    "id": 37,
+    "name": "Funko Pop Darth Vader",
+    "brand": "Funko",
+    "price": 139.90
+  },
+  {
+    "id": 38,
+    "name": "Quebra-Cabeça 1000 peças",
+    "brand": "Grow",
+    "price": 80.00
+  },
+  {
+    "id": 39,
+    "name": "Jogo de Tabuleiro: Catan",
+    "brand": "Devir",
+    "price": 240.00
+  },
+  {
+    "id": 40,
+    "name": "Baralho de Uno",
+    "brand": "Copag",
+    "price": 25.00
+  },
+  {
+    "id": 41,
+    "name": "Violão de Nylon",
+    "brand": "Giannini",
+    "price": 450.00
+  },
+  {
+    "id": 42,
+    "name": "Mochila para Notebook",
+    "brand": "Dell",
+    "price": 150.00
+  },
+  {
+    "id": 43,
+    "name": "Garrafa Térmica",
+    "brand": "Stanley",
+    "price": 180.00
+  },
+  {
+    "id": 44,
+    "name": "Kit de Ferramentas",
+    "brand": "Tramontina",
+    "price": 199.90
+  },
+  {
+    "id": 45,
+    "name": "Furadeira de Impacto",
+    "brand": "Bosch",
+    "price": 320.00
+  },
+  {
+    "id": 46,
+    "name": "Webcam Full HD",
+    "brand": "Logitech",
+    "price": 280.00
+  },
+  {
+    "id": 47,
+    "name": "Echo Dot 5ª Geração",
+    "brand": "Amazon",
+    "price": 349.00
+  },
+  {
+    "id": 48,
+    "name": "Lâmpada Inteligente Wi-Fi",
+    "brand": "Positivo",
+    "price": 60.00
+  },
+  {
+    "id": 49,
+    "name": "Chromecast 4",
+    "brand": "Google",
+    "price": 399.00
+  },
+  {
+    "id": 50,
+    "name": "Cubo Mágico Profissional",
+    "brand": "Moyu",
+    "price": 95.00
+  }
+]
